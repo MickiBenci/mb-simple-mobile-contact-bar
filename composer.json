@@ -1,0 +1,17 @@
+{
+    "name": "micki/mb_job_board",
+    "description": "Plugin For Job Ads",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Michelangelo Bencivenga",
+            "email": "michelangelo.bencivenga@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
